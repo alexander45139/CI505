@@ -8,3 +8,5 @@ import Huffman
 
 main :: IO ()
 main = print ""
+
+
